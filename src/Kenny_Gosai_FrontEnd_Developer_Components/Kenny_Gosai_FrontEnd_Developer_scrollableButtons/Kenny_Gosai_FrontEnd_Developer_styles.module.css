@@ -1,0 +1,47 @@
+.scrollingWrapper {
+    display: flex;
+    margin: auto;
+    flex-wrap: nowrap;
+  overflow-x: auto;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+  /* padding-left: 35px; */
+  -webkit-overflow-scrolling: touch;
+  }
+  .card {
+    padding-top: 25px;
+    /* margin-left: 25px; */
+    flex: 0 0 auto;
+  }
+  .scrolling-wrapper ::-webkit-scrollbar {
+     
+      display: none;
+  }
+  .entireContainer{
+    display: flex;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+  }
+  .fabStyleLeft {
+    flex: 0 0 auto;
+    margin-left: 25px;
+    visibility: visible;
+    /* background-color: teal; */
+  }
+
+  .fabStyleRight {
+    flex: 0 0 auto;
+    margin-right: 25px;
+    visibility: visible;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .fabStyleLeft {
+      visibility: hidden;
+    }
+    .fabStyleRight {
+      visibility: hidden;
+    }
+  }
