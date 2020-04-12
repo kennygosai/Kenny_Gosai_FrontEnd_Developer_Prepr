@@ -1,0 +1,62 @@
+.title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 52px;
+  color: white;
+}
+
+.paper {
+  width: 350px;
+  height: 350px;
+  background-color: white;
+}
+.subHeading {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 21px;
+  padding-top: 25px;
+  padding-left: 25px;
+  color: #86b99c;
+}
+.generalMembers {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 21px;
+  padding-top: 40px;
+  padding-left: 25px;
+  color: #86b99c;
+}
+.subHeading2 {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 21px;
+  padding-top: 25px;
+  padding-left: 25px;
+  color: #007bff;
+}
+.generalInfo {
+  font-family: "Roboto", sans-serif;
+  padding-left: 25px;
+}
+.list {
+  padding-left: 50px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+.mainImage {
+  width: 97%;
+  margin-right: 25px;
+  margin-top: 25px;
+  margin-left: 10px;
+}
+.challengeTitle {
+  margin-left: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-size: 21px;
+  color: #86b99c;
+}
+.iconImage {
+  width: 30px;
+  padding-top: 25px;
+}

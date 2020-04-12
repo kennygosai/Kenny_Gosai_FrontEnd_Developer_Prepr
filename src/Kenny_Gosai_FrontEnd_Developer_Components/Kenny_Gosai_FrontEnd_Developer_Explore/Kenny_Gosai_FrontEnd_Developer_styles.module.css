@@ -1,0 +1,54 @@
+.titleButtonContainer {
+  display: flex;
+  padding-top: 25px;
+  padding-left: 25px;
+}
+
+.challengeButton {
+  display: flex;
+  overflow-x: auto;
+  align-items: center;
+}
+.item {
+  max-width: 380px;
+  min-height: 397px;
+}
+
+.scrollingWrapper {
+  display: flex;
+  margin: auto;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+  height: 100%;
+  width: 80%;
+  -webkit-overflow-scrolling: touch;
+}
+.card {
+  padding-top: 25px;
+  flex: 0 0 auto;
+}
+.scrolling-wrapper ::-webkit-scrollbar {
+  display: none;
+}
+.entireContainer {
+  display: flex;
+  height: 20%;
+  align-items: center;
+  justify-content: center;
+}
+
+.title {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-size: 52px;
+  color: white;
+}
+.container {
+  display: -webkit-box; /* OLD - iOS 6-, Safari 3.1-6, BB7 */
+  display: -ms-flexbox; /* TWEENER - IE 10 */
+  display: -webkit-flex; /* NEW - Safari 6.1+. iOS 7.1+, BB10 */
+  display: flex; /* NEW, Spec - Firefox, Chrome, Opera */
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
