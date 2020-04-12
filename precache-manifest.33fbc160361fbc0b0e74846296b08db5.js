@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b4f8e3f0730726042866df85eebd581",
+    "revision": "9208205c3571435a0ceb5a5389c7a8ca",
     "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/index.html"
   },
   {
-    "revision": "fc8d7137692ec6885a5c",
+    "revision": "427a5699cd6d202e18d3",
     "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/css/2.d2b910b2.chunk.css"
   },
   {
-    "revision": "43c4ccc7efc047198eb3",
-    "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/css/main.76996e2c.chunk.css"
+    "revision": "68e2abc7863c253886ff",
+    "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/css/main.d8ba043b.chunk.css"
   },
   {
-    "revision": "fc8d7137692ec6885a5c",
-    "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.a7508250.chunk.js"
+    "revision": "427a5699cd6d202e18d3",
+    "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.904177f4.chunk.js"
   },
   {
     "revision": "4a1691fd44116c5f8c99a494e6966d73",
-    "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.a7508250.chunk.js.LICENSE.txt"
+    "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.904177f4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43c4ccc7efc047198eb3",
-    "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/main.aee1ac09.chunk.js"
+    "revision": "68e2abc7863c253886ff",
+    "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/main.632c3eb7.chunk.js"
   },
   {
     "revision": "9cd21a8e97a00ab330ae",
@@ -70,10 +70,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/media/icons.faff9214.woff"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/media/logo.5d5d9eef.svg"
   },
   {
     "revision": "701ae6abd4719e9c2ada3535a497b341",

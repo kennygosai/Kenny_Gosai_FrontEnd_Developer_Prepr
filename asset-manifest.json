@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/css/main.76996e2c.chunk.css",
-    "main.js": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/main.aee1ac09.chunk.js",
-    "main.js.map": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/main.aee1ac09.chunk.js.map",
+    "main.css": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/css/main.d8ba043b.chunk.css",
+    "main.js": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/main.632c3eb7.chunk.js",
+    "main.js.map": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/main.632c3eb7.chunk.js.map",
     "runtime-main.js": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/runtime-main.3a460be6.js",
     "runtime-main.js.map": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/runtime-main.3a460be6.js.map",
     "static/css/2.d2b910b2.chunk.css": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/css/2.d2b910b2.chunk.css",
-    "static/js/2.a7508250.chunk.js": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.a7508250.chunk.js",
-    "static/js/2.a7508250.chunk.js.map": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.a7508250.chunk.js.map",
+    "static/js/2.904177f4.chunk.js": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.904177f4.chunk.js",
+    "static/js/2.904177f4.chunk.js.map": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.904177f4.chunk.js.map",
     "index.html": "/Kenny_Gosai_FrontEnd_Developer_Prepr/index.html",
-    "precache-manifest.79091c9259d90097f044b37f94f92b19.js": "/Kenny_Gosai_FrontEnd_Developer_Prepr/precache-manifest.79091c9259d90097f044b37f94f92b19.js",
+    "precache-manifest.33fbc160361fbc0b0e74846296b08db5.js": "/Kenny_Gosai_FrontEnd_Developer_Prepr/precache-manifest.33fbc160361fbc0b0e74846296b08db5.js",
     "service-worker.js": "/Kenny_Gosai_FrontEnd_Developer_Prepr/service-worker.js",
     "static/css/2.d2b910b2.chunk.css.map": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/css/2.d2b910b2.chunk.css.map",
-    "static/css/main.76996e2c.chunk.css.map": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/css/main.76996e2c.chunk.css.map",
-    "static/js/2.a7508250.chunk.js.LICENSE.txt": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.a7508250.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/media/outline-icons.ef60a4f6.woff",
-    "static/media/logo.svg": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/media/logo.5d5d9eef.svg"
+    "static/css/main.d8ba043b.chunk.css.map": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/css/main.d8ba043b.chunk.css.map",
+    "static/js/2.904177f4.chunk.js.LICENSE.txt": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/js/2.904177f4.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/Kenny_Gosai_FrontEnd_Developer_Prepr/static/media/outline-icons.ef60a4f6.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.3a460be6.js",
     "static/css/2.d2b910b2.chunk.css",
-    "static/js/2.a7508250.chunk.js",
-    "static/css/main.76996e2c.chunk.css",
-    "static/js/main.aee1ac09.chunk.js"
+    "static/js/2.904177f4.chunk.js",
+    "static/css/main.d8ba043b.chunk.css",
+    "static/js/main.632c3eb7.chunk.js"
   ]
 }
