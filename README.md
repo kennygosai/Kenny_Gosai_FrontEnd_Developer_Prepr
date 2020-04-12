@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 # Design Process
 First decision was to decide on what the target audience would be when using the digital interface. Based on the content it looked like the target audience were students and employers. So the interface needed to be modern so students can get used to it easier and professional so employers can take it seriously as a platform.  Material Design is a design approach created by Google and used on their platforms. To keep with the modern designs, I used Material Design for a lot of the elements so users would understand what are action possibilities.
 
-Second I used Adobe XD to draw prototypes of the Web Design to make the implementation much easier. When implementing this project using React there are certain aspects of the initial prototype that were changed, like the explore page. In the Prototype I had it so the items where horizontally scroll-able but  when implementing noticed it didn't follow the design patterns I set in place on the other pages and changed it accordingly.
+Second I used Adobe XD to draw prototypes of the Web Design to make the implementation much easier. When implementing this project using React there are certain aspects of the initial prototype that were changed. One example of this change occurs in the Explore page. In the Prototype I had it so the Buttons where horizontally scroll-able but  when implementing noticed it didn't follow the design patterns I set in place by the other pages and changed it accordingly.
 
 ## Available Scripts
 
