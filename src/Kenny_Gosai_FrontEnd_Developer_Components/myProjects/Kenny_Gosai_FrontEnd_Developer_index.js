@@ -2,7 +2,7 @@ import React from 'react'
 import PrimarySearchBar from '../Kenny_Gosai_FrontEnd_Developer_HOC/Kenny_Gosai_FrontEnd_Developer_PrimarySearchAppBar/Kenny_Gosai_FrontEnd_Developer_index'
 import styles from './Kenny_Gosai_FrontEnd_Developer_styles.module.css'
 import { makeStyles} from '@material-ui/core/styles';
-import LongButton from '../Kenny_Gosai_FrontEnd_Developer_LongButtons/Kenny_Gosai_FrontEnd_Developer_index';
+import LongButton from '../LongButtons/Kenny_Gosai_FrontEnd_Developer_index';
 import ToggleButton from '@material-ui/lab/ToggleButton';
 import ToggleButtonGroup from '@material-ui/lab/ToggleButtonGroup';
 import FormatAlignRightIcon from '@material-ui/icons/FormatAlignRight';

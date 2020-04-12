@@ -1,6 +1,6 @@
 import React from 'react';
 import { Comment } from 'semantic-ui-react'
-import './node_modules/semantic-ui-css/semantic.min.css'
+import 'semantic-ui-css/semantic.min.css'
 const AvatarDisplay = () => {
     return (
         <Comment.Group>

@@ -7,7 +7,7 @@ import { makeStyles} from '@material-ui/core/styles';
 import ColorStyle from "../Kenny_Gosai_FrontEnd_Developer_HOC/Kenny_Gosai_FrontEnd_Developer_ColorStyle";
 import ExploreButton from "../AllButton/Kenny_Gosai_FrontEnd_Developer_ExploreButton/Kenny_Gosai_FrontEnd_Developer_index";
 import AliceCarousel from 'react-alice-carousel'
-import './node_modules/react-alice-carousel/lib/alice-carousel.css'
+import 'react-alice-carousel/lib/alice-carousel.css'
 import ScrollableContainer from "../ScrollableContainer/Kenny_Gosai_FrontEnd_Developer_index";
 import ChevronLeftRoundedIcon from '@material-ui/icons/ChevronLeftRounded';
 import Fab from '@material-ui/core/Fab';

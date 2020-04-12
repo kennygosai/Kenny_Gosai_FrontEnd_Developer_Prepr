@@ -120,18 +120,18 @@ function PrimarySearchAppBar(props) {
   const sideBarList = {
       'Explore': {
           url : 'https://preprlabs.org/front/img/explore.png',
-          to: '/'
+          to: '/Kenny_Gosai_FrontEnd_Developer_Prepr'
       },
       'Projects': {
         url : 'https://preprlabs.org/front/img/my_projects.png',
-        to: '/myProjects'
+        to: '/Kenny_Gosai_FrontEnd_Developer_Prepr/myProjects'
       },
       'Labs': {
         url : 'https://preprlabs.org/front/img/labs.png'
       },
       'Challenges': {
         url : 'https://preprlabs.org/front/img/challenges_icn.png',
-        to: '/challenge'
+        to: '/Kenny_Gosai_FrontEnd_Developer_Prepr/challenge'
       },
       'Achievements': {
         url : 'https://preprlabs.org/front/img/achievements_icn.png'

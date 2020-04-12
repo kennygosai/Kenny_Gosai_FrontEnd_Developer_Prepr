@@ -10,7 +10,7 @@ import Select from '@material-ui/core/Select';
 import Button from '@material-ui/core/Button';
 import { Box } from '@material-ui/core'
 import ColorStyle from '../Kenny_Gosai_FrontEnd_Developer_HOC/Kenny_Gosai_FrontEnd_Developer_ColorStyle';
-import LongButton from '../Kenny_Gosai_FrontEnd_Developer_LongButtons/Kenny_Gosai_FrontEnd_Developer_index';
+import LongButton from '../LongButtons/Kenny_Gosai_FrontEnd_Developer_index';
 import Pagination from '@material-ui/lab/Pagination';
 const useStyles = makeStyles((theme) => ({
     moreButton: {
@@ -220,6 +220,7 @@ const Challenges = () => {
                         value={privacy}
                         onChange={handleprivacyChange}
                         >
+                            {/* {console.log("hi")} */}
                         <MenuItem value="">
                             <em>None</em>
                         </MenuItem>

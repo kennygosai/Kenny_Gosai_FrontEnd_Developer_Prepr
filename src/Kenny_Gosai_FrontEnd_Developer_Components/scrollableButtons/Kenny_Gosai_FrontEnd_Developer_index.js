@@ -3,7 +3,7 @@ import styles from './Kenny_Gosai_FrontEnd_Developer_styles.module.css'
 import ChevronLeftRoundedIcon from '@material-ui/icons/ChevronLeftRounded';
 import Fab from '@material-ui/core/Fab';
 import ChevronRightRoundedIcon from '@material-ui/icons/ChevronRightRounded';
-import ExploreButton from "../Kenny_Gosai_FrontEnd_Developer_Buttons/Kenny_Gosai_FrontEnd_Developer_ExploreButton/Kenny_Gosai_FrontEnd_Developer_index";
+import ExploreButton from "../AllButton/Kenny_Gosai_FrontEnd_Developer_ExploreButton/Kenny_Gosai_FrontEnd_Developer_index";
 
 const ScrollableButtons = (props) => {
     // console.log(props)

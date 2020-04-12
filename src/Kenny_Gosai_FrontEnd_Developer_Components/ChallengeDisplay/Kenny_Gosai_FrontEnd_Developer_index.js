@@ -11,8 +11,8 @@ import EventRoundedIcon from '@material-ui/icons/EventRounded';
 import { Divider, Button } from '@material-ui/core';
 import ShareRoundedIcon from '@material-ui/icons/ShareRounded';
 import Discussion from './Kenny_Gosai_FrontEnd_Developer_Discussion/Kenny_Gosai_FrontEnd_Developer_index';
-import MediaCard from '../Kenny_Gosai_FrontEnd_Developer_MediaCard/Kenny_Gosai_FrontEnd_Developer_index'
-import AvatarDisplay from '../Kenny_Gosai_FrontEnd_Developer_AvatarDisplay/Kenny_Gosai_FrontEnd_Developer_index';
+import MediaCard from '../MediaCard/Kenny_Gosai_FrontEnd_Developer_index'
+import AvatarDisplay from '../AvatarDisplay/Kenny_Gosai_FrontEnd_Developer_index';
 
 
 const useStyles = makeStyles((theme) => ({
